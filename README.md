@@ -16,4 +16,4 @@ Support kalian sangat berarti bagi saya untuk membuat project yang lainnya
             [S] INSTAGRAM  : @zoelabbb
             [S] YouTube    : zoelabbb
             [S] GitHub     : @zoelabbb
-            [S] Telegram   : @domicadoesca
+            [S] Telegram   : https://t.me/domicadoesca
