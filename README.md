@@ -3,13 +3,14 @@
  *
  * Game Gajah - Manusia - Semut
  * Code by      : @zoelabbb
- * Telegram     : @domicadoesca
+ * Telegram     : https://t.me/domicadoesca
  * Game GMS     : V.0.1
- */
+ **/
 
 Terimakasih telah download Game GMS
 Jangan lupa like, share, follow & subscribe untuk support saya :D
 Support kalian sangat berarti bagi saya untuk membuat project yang lainnya
+
 
 
 # Cara Install
