@@ -46,4 +46,6 @@ Windows :
                         [S] YouTube    : zoelabbb
                         [S] GitHub     : @zoelabbb
                         [S] Telegram   : https://t.me/domicadoesca
+                        
+                 # Jika ada sebuah ERROR / BUG / KESALAHAN dimohon lapor segera ke telegram saya :D
 
