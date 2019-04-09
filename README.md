@@ -1,7 +1,7 @@
 # Game GMS
 /**
  *
- * Game Gunting - Batu - Kertas
+ * Game Gajah - Manusia - Semut
  * Code by      : @zoelabbb
  * Telegram     : @domicadoesca
  * Game GMS     : V.0.1
