@@ -5,6 +5,7 @@
  * Code by      : @zoelabbb
  * Telegram     : https://t.me/domicadoesca
  * Game GMS     : V.0.1
+ * Web Link     : https://zoelabbb.github.io/Game-GMS/
  **/
 
 Terimakasih telah download Game GMS
