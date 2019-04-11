@@ -16,6 +16,7 @@ Support kalian sangat berarti bagi saya untuk membuat project yang lainnya
 
 # Cara Install
 
+![Gms](https://user-images.githubusercontent.com/49254668/55944701-5e9f3f80-5c73-11e9-89bc-1a66115ec0f1.png)
 
 Linux :
 
